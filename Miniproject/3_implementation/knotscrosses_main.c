@@ -160,7 +160,7 @@ void checkForWin()
         return;
      }
      for(i = 0; i < 9; i++)
-         if(board[i] != ' ')
+         if(board[i] = ' ')
                contor++;
      if(contor == 9)
      {
