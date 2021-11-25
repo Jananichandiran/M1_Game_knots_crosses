@@ -3,7 +3,7 @@
 void displayBoard();
 int verifySelection(int,int);
 void checkForWin();
-char board[ 8 ], whoWon = ' ';
+char board[8], whoWon = ' ';
 
 int currentPlayer = 0;
 
