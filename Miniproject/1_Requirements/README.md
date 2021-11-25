@@ -3,8 +3,7 @@
 
   Knots and crosses is a two-player game in which the objectives is to takes turns and mark the correct spaces with Xs and Os in 3*3 grid.The player is considered as winner when they place three of their marks in a row of horizontal,vertical or diagonal.
 ## Features 
-
- - simple and user friendly.
+  - simple and user friendly.
   - children from age 3 and above can play.
   - improves spatial ability.
 
