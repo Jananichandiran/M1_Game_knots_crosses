@@ -94,57 +94,57 @@ void checkForWin()
         whoWon = 'X';
 
      }
-     else if(board[ 0 ] == 'X' && board[ 3 ] == 'X' && board[ 6 ] == 'X')
+     else if(board[0] == 'X' && board[3] == 'X' && board[6] == 'X')
      {
         whoWon = 'X';
      }
-     else if(board[ 1 ] == 'X' && board[ 4 ] == 'X' && board[ 7 ] == 'X')
+     else if(board[1] == 'X' && board[4] == 'X' && board[7] == 'X')
      {
         whoWon = 'X';
      }
-     else if(board[2 ] == 'X' && board[ 5 ] == 'X' && board[8] == 'X')
+     else if(board[2] == 'X' && board[5] == 'X' && board[8] == 'X')
      {
         whoWon = 'X';
      }
      else
-     if(board[ 0 ] == 'O' && board[ 1 ] == 'O' && board[ 2 ] == 'O')
+     if(board[0] == 'O' && board[1] == 'O' && board[2] == 'O')
      {
         whoWon = 'O';
      }
-     else if(board[ 3 ] == 'O' && board[ 4 ] == 'O' && board[ 5 ] == 'O')
+     else if(board[3] == 'O' && board[4] == 'O' && board[5] == 'O')
      {
         whoWon = 'O';
      }
-     else if(board[ 6 ] == 'O' && board[ 7 ] == 'O' && board[ 8 ] == 'O')
+     else if(board[6] == 'O' && board[7] == 'O' && board[ 8 ] == 'O')
      {
         whoWon = 'O';
      }
-     else if(board[ 0 ] == 'O' && board[ 3 ] == 'O' && board[ 6 ] == 'O')
+     else if(board[0] == 'O' && board[3] == 'O' && board[6] == 'O')
      {
         whoWon = 'O';
      }
-     else if(board[ 1 ] == 'O' && board[ 4 ] == 'O' && board[ 7 ] == 'O')
+     else if(board[1] == 'O' && board[4] == 'O' && board[7] == 'O')
      {
         whoWon = 'O';
      }
-     else if(board[ 2 ] == 'O' && board[ 5 ] == 'O' && board[ 8 ] == 'O')
+     else if(board[2] == 'O' && board[5] == 'O' && board[8] == 'O')
      {
         whoWon = 'O';
     }
-     if(board[ 0 ] == 'X' && board[ 4 ] == 'X' && board[ 8 ] == 'X')
+     if(board[0] == 'X' && board[4] == 'X' && board[8] == 'X')
      {
         whoWon = 'X';
      }
-     else if(board[ 2 ] == 'X' && board[ 4 ] == 'X' && board[ 6 ] == 'X')
+     else if(board[2] == 'X' && board[4] == 'X' && board[6] == 'X')
      {
         whoWon = 'X';
      }
-     if(board[ 0 ] == 'O' && board[ 4 ] == 'O' && board[ 8 ] == 'O')
+     if(board[0] == 'O' && board[4] == 'O' && board[8] == 'O')
      {
         whoWon = 'O';
 
      }
-     else if(board[ 2 ] == 'O' && board[ 4 ] == 'O' && board[ 6 ] == 'O')
+     else if(board[2] == 'O' && board[4] == 'O' && board[6] == 'O')
      {
         whoWon = 'O';
      }
