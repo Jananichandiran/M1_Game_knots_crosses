@@ -50,7 +50,7 @@ int main() {
        checkForWin();
     }
    return (0);
-};
+}
 void displayBoard()
 {
      system("cls");
@@ -60,7 +60,7 @@ void displayBoard()
      printf("---|---|---\n");
      printf(" %c | %c | %c \n", board[6], board[7], board[8]);
      printf("\n");
-};
+}
 int verifySelection(int square, int player)
 {
      if((player == 0 || player == 1) && board[square-1] == ' ')
@@ -142,7 +142,6 @@ void checkForWin()
      if(board[0] == 'O' && board[4] == 'O' && board[8] == 'O')
      {
         whoWon = 'O';
-
      }
      else if(board[2] == 'O' && board[4] == 'O' && board[6] == 'O')
      {
