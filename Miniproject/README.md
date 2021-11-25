@@ -2,19 +2,19 @@
 
 ## code quality score
 
-![code quality score](https://api.codiga.io/project/29870/score/svg)
+![code quality score](https://api.codiga.io/project/30057/score/svg)
 
 ## code grade
 
-![code grade](https://api.codiga.io/project/29870/status/svg)
+![code grade](https://api.codiga.io/project/30057/status/svg)
 
 ## Codacy Badge
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c6544e0117394e4e8cfa2e4fe83e9f53)](https://www.codacy.com/gh/Jananichandiran/M1_game_Knots_crosses/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jananichandiran/M1_game_Knots_crosses&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e0fbea1a36ca46059e9aeadde32138ff)](https://www.codacy.com/gh/Jananichandiran/M1_Game_knots_crosses/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jananichandiran/M1_Game_knots_crosses&amp;utm_campaign=Badge_Grade)
 
-## CI
+## cpp
 
-[![CI](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml/badge.svg)](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml)
+[![cppcheck-action-test](https://github.com/Jananichandiran/M1_Game_knots_crosses/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Jananichandiran/M1_Game_knots_crosses/actions/workflows/cppcheck.yml)
 
 ## SDLC Activity Based Learning
 ### Folder Structure
