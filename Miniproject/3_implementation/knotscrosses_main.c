@@ -81,15 +81,15 @@ void checkForWin()
 {
      int i,
          contor = 0;
-     if(board[ 0 ] == 'X' && board[ 1 ] == 'X' && board[ 2 ] == 'X')
+     if(board[0] == 'X' && board[1] == 'X' && board[2] == 'X')
      {
         whoWon = 'X';
      }
-     else if(board[ 3 ] == 'X' && board[ 4 ] == 'X' && board[ 5 ] == 'X')
+     else if(board[3] == 'X' && board[4] == 'X' && board[5] == 'X')
      {
         whoWon = 'X';
      }
-     else if(board[ 6 ] == 'X' && board[ 7 ] == 'X' && board[ 8 ] == 'X')
+     else if(board[6] == 'X' && board[7] == 'X' && board[8] == 'X')
      {
         whoWon = 'X';
 
@@ -102,7 +102,7 @@ void checkForWin()
      {
         whoWon = 'X';
      }
-     else if(board[ 2 ] == 'X' && board[ 5 ] == 'X' && board[ 8 ] == 'X')
+     else if(board[2 ] == 'X' && board[ 5 ] == 'X' && board[8] == 'X')
      {
         whoWon = 'X';
      }
