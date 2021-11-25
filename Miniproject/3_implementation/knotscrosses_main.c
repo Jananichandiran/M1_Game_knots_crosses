@@ -3,7 +3,7 @@
 void displayBoard();
 int verifySelection(int,int);
 void checkForWin();
-char board[9], whoWon = ' ';
+char board[8], whoWon = ' ';
 
 int currentPlayer = 0;
 
@@ -117,7 +117,7 @@ void checkForWin()
      {
         whoWon = 'O';
      }
-     else if(board[6] == 'O' && board[7] == 'O' && board[ 8 ] == 'O')
+     else if(board[6] == 'O' && board[7] == 'O' && board[8] == 'O')
      {
         whoWon = 'O';
      }
@@ -149,7 +149,8 @@ void checkForWin()
      {
         whoWon = 'O';
      }
-     if(whoWon == 'X') {
+     if(whoWon == 'X') 
+     {
 
         printf("\nX WON\n");
         return;
