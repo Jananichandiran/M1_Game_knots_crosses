@@ -14,7 +14,7 @@
 
 ## CI
 
-[![CI](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml/badge.svg)](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml)
+[![CI](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml/badge.svg)](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml)
 
 # SDLC Activity Based Learning
 
