@@ -16,9 +16,8 @@
 
 [![CI](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml/badge.svg)](https://github.com/Jananichandiran/M1_game_Knots_crosses/actions/workflows/main.yml)
 
-# SDLC Activity Based Learning
-
-## Folder Structure
+## SDLC Activity Based Learning
+### Folder Structure
 
 | Folder | description | 
 | ---------- | ----------- |
@@ -29,7 +28,8 @@
 | 5_Report | Overall view |
 | 6_ImagesandVideos | All the pictorial Representation | 
 
-## Learning Resources
+### Learning Resources
+
 - markdown Cheat sheet.
 - markdown Basics.
 - git inspector.
