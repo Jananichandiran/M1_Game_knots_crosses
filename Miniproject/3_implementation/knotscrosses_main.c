@@ -14,7 +14,7 @@ int main() {
 
     for(i = 0; i < 9; i++) 
         
-    board[i] = ' ';
+    board[] = ' ';
 
     displayBoard();
 
@@ -161,7 +161,7 @@ void checkForWin()
         return;
      }
      for(i = 0; i < 9; i++)
-         if(board[i] = ' ')
+         if(board[] = ' ')
                contor++;
      if(contor == 9)
      {
