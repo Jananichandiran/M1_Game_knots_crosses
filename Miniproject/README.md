@@ -18,8 +18,6 @@
 
 # SDLC Activity Based Learning
 
-
-
 ## Folder Structure
 
 | Folder | description | 
@@ -32,8 +30,7 @@
 | 6_ImagesandVideos | All the pictorial Representation | 
 
 ## Learning Resources
-
-- markdownCheatsheet
-- markdownBasics
-- git inspector
+- markdown Cheat sheet.
+- markdown Basics.
+- git inspector.
 - github workflow
