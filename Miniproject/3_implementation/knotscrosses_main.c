@@ -12,7 +12,7 @@ int main() {
 
     int i, square;
 
-    for(i = 0; i < 9; i++) board[ i ] = ' ';
+    for(i = 0; i < 9; i++) board[i] = ' ';
 
     displayBoard();
 
