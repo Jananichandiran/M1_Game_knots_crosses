@@ -30,7 +30,7 @@
 
 ### Learning Resources
 
-- markdown Cheat sheet.
-- markdown Basics.
-- git inspector.
-- github workflow
+-   markdown Cheat sheet.
+-   markdown Basics.
+-   git inspector.
+-   github workflow
